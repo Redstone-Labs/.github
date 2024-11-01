@@ -1,5 +1,5 @@
 ## Welcome 👋
-We are Redstone Labs, a Minecraft development group. Our goal is to create awesome and open-sourced work for the Minecraft community. Feel free to check out our work! We are also actively looking for contributors to maintain and work on our projects! Please read our [CONTRIBUTING.MD](https://github.com/Redstone-Labs/.github/blob/main/profile/CONTRIBUTING.MD) to get started as a contributor!
+We are Redstone Labs, a Minecraft development group. Our goal is to create awesome and open-sourced work for the Minecraft community. Feel free to check out our work! We are also actively looking for contributors to maintain and work on our projects! Please read our [CONTRIBUTING.MD](https://github.com/Redstone-Labs/.github/blob/main/CONTRIBUTING.MD) to get started as a contributor!
 
 ### Why open-source? ⁉️
 We at Redstone Labs believe in quality, free work that's available to everyone. That's why:
