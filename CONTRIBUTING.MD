@@ -19,7 +19,7 @@ With different developers contributing to this project, it's important to establ
 		> We have implemented our own Pull Request template to make it easier for you to submit your first PR.
 		
 - Write consice and well documented code. Don't be afraid to add comments anywhere to help others understand what it does. You are also expected to use effective, non-deprecated coding methods so as to avoid any security vulnerabilities. If there is a more simple way to do something, you should try doing it that way.
-- Try not to impact performance in your code. We do our best to have minimal performance drag in our plugins, and you should follow this movement too.
+- Try not to drag the entire project's performance down with your code. We do our best to have minimal performance drag in our plugins, and you should follow this movement too.
 
 ### Rules & Guidelines
 
