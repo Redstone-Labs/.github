@@ -8,7 +8,7 @@ We at Redstone Labs believe in quality, free work that's available to everyone. 
 
 🔒We have extended security measures in place to ensure any code changes don't introduce any problems down the line in a project's development.
 
-💻Since our projects are 100% public and transparent, rest easy that we do not include any malicious lines of code in our plugins.
+💻Since our projects are 100% public and transparent, rest easy that we do not include any malicious lines of code in our plugins!
 
 ### License
 All the projects under Redstone Labs are licensed under the GPL v3 license.
